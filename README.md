@@ -1,9 +1,17 @@
 # Lidar Obstacle Detection using PCL, and real point cloud data
 
 <img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
+## Descriptions
+This is a source code to process pointcloud to do
+1. Segment plane and obstacle
+2. Cluster obstacles
+3. Create boudingboxes
 
-
-
+## TO DOs
+To Do
+1. Implement non-PCL kd-treeSDS
+2. Implement non-PCL ransac
+3. Implement stream pointcloud
 
 ## Installation
 
